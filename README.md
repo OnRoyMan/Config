@@ -1,2 +1,2 @@
-# vpn
+# Config
 My Selection
